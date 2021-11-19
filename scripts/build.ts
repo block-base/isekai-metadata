@@ -2,7 +2,7 @@ import * as fs from "fs";
 import template from "./template.json";
 import { Metadata } from "./types";
 
-const count = 5;
+const count = 10;
 const OUTPUT_PATH_BASE = "./public/metadata/";
 
 const metadatas: Metadata[] = [];
