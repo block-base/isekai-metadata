@@ -1,0 +1,19 @@
+{
+  "name": "isekai-metadata",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "ts-node scripts/build.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/block-base/isekai-metadata.git"
+  },
+  "author": "",
+  "devDependencies": {
+    "@types/node": "^16.11.8",
+    "ts-node": "^10.4.0",
+    "typescript": "^4.5.2"
+  }
+}
