@@ -1,0 +1,11 @@
+tokenId,species,sex,heritage,personality,weapon,HP,STR,INT,SPD,LUK
+1,Human,Male,Middle Class,cool,Sword Lv1,3,2,4,3,3
+2,Human,Female,Middle Class,Serious,Staff Lv1,2,1,5,4,2
+3,Elf,Female,High Class,Gentle,Bow Lv1,2,3,3,4,2
+4,Dwarf,Male,Middle Class,Optimistic,Axe Lv2,5,4,1,3,3
+5,Demon,Male,Low Class,Rough,Sword Lv1,4,4,1,3,1
+6,Merfolk,Female,Middle Class,Diffident,Staff Lv2,3,2,4,4,1
+7,Therianthrope,Male,Middle Class,Pessimistic,Axe Lv1,4,4,2,4,1
+8,Vampire,Female,Middle Class,Rough,Fists Lv2,2,4,4,4,1
+9,Angel,Female,High Class,Passionate,Bow Lv2,1,3,5,3,4
+10,Unknown,Male,High Class,Pessimistic,Sword Lv3,2,3,2,4,4

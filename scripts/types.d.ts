@@ -4,4 +4,5 @@ export interface Metadata {
   description: string;
   external_url: string;
   image: string;
+  attributes:any
 }
