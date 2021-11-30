@@ -24,7 +24,7 @@ fs.createReadStream(csvPath)
         name: `${template.name} #${padding(i)}`,
         image: `${template.image}${padding(i)}.png`,
         attributes:{
-          species: list[i-1].sepecies,
+          species: list[i-1].species,
           sex: list[i-1].sex,
           heritage: list[i-1].heritage,
           personality: list[i-1].personality,
