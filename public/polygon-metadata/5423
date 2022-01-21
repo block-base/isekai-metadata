@@ -1,0 +1,18 @@
+{
+	"tokenId": 5423,
+	"name": "#005 - Ray",
+	"description": "This is the collection of \"Isekai Anime Characters\" Monochrome ver.\nThere are 4 designs within the collection: Pulse, Ray, Wave, and Battle.\n\n\"Isekai Anime Characters\" are handmade NFTs in which every character is drawn carefully one by one.\nThe first editions (Genesis 0) is limited to only 50 in the world.\nWe look forward to offers from enthusiastic fans with the desire to spread Japanese anime culture to the world through crypto art.\nhttps://opensea.io/collection/isekai-anime-characters",
+	"image_url": "https://raw.githubusercontent.com/block-base/isekai-metadata/main/public/polygon-images/005-ray.png",
+	"species": "Demon",
+	"attributes": {
+		"sex": "Male",
+		"heritage": "Low Class",
+		"personality": "Rough",
+		"weapon": "Sword Lv1",
+		"HP": 4,
+		"STR": 4,
+		"INT": 1,
+		"SPD": 3,
+		"LUK": 1
+	}
+}
